@@ -5,12 +5,11 @@ What is API Authentication
 
 Technology Stack :-
 -------------------
-Node.js
+Node.js, Express.js
 
 Command in teminal for generating JWT_SECRET
 --------------------------------------------
 node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
-
 
 Chatgpt link
 ------------
